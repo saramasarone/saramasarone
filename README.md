@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saramasarone and I'm a Doctoral student at The Alan Turing Institute
 
-- 👀 I’m interested in applying Machine Learning and Deep Learning to omics and biological data to reveal insights in many diseases. Sometimes I also develop packages to automate ML/bioinformatics workflows.
+- 👀 I’m interested in applying Machine Learning and Deep Learning to multi-omics and biological data to reveal insights in many diseases. Sometimes I also develop packages to automate ML/bioinformatics workflows.
  
 - 🌱 I’m currently learning how to best share the tools I developed :)
 
