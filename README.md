@@ -4,7 +4,7 @@
  
 - 🌱 I’m currently learning how to best share the tools I developed :)
 
-- 🏩 I’m looking to collaborate on medical/health projects involing Deep Learning and tabular data
+- 🏩 I’m looking to collaborate on medical/health projects involing Deep Learning and tabular data (this area has been largely neglected recently)
 
 - 📫 You can reach me on my Turing email smasarone@turing.ac.uk (preferred) or at s.masarone@qmul.ac.uk.
 
