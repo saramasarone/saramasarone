@@ -6,7 +6,7 @@
 
 - 🏩 I’m looking to collaborate on medical/health projects involing Deep Learning and tabular data (this area has been largely neglected recently)
 
-- 📫 You can reach me on my Turing email smasarone@turing.ac.uk (preferred) or at s.masarone@qmul.ac.uk.
+- 📫 You can email me @ smasarone@turing.ac.uk (preferred) or @ s.masarone@qmul.ac.uk.
 
 
 <!---
