@@ -4,7 +4,7 @@
  
 - 🌱 I have developed a few tools to make my PhD life easier :)
 
-- 🏩 I’m looking to collaborate on medical/health projects involing Deep Learning and tabular data (this area has been largely neglected recently)
+- 🏩 I’m looking to collaborate on medical/health projects involing Graph Neural Networks
 
 - 📫 You can email me @ smasarone@turing.ac.uk (preferred) or @ s.masarone@qmul.ac.uk.
 
