@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in applying Machine Learning and Deep Learning to multi-omics and biological data to reveal insights in many diseases. Sometimes I also develop packages to automate ML/bioinformatics workflows.
  
-- 🌱 I have developed a few tools to make my PhD life easier :)
+- 🌱 I've developed a few tools to make my PhD life easier :)
 
 - 🏩 I’m looking to collaborate on medical/health projects involing Graph Neural Networks
 
