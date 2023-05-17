@@ -6,7 +6,7 @@
 
 - 🏩 I’m looking to collaborate on medical/health projects involing Graph Neural Networks
 
-- 📫 You can email me at smasarone@turing.ac.uk (preferred) or @ s.masarone@qmul.ac.uk.
+- 📫 You can email me at smasarone@turing.ac.uk (preferred) or at s.masarone@qmul.ac.uk.
 
 
 <!---
