@@ -1,6 +1,6 @@
 
 
-- 👋 Hey, I’m @saramasarone, a ML Engineer @IgnotaLabs and I hold a PhD from The Alan Turing Institute!
+- 👋 Hey, I’m @saramasarone, a ML Researcher/Engineer @IgnotaLabs and I hold a PhD from The Alan Turing Institute!
 
 - 👀 I’m interested in applying Machine Learning and Deep Learning to multi-omics and biological data to reveal insights in many diseases. Over my PhD, I also develop packages to automate ML/bioinformatics workflows.
  
