@@ -1,14 +1,7 @@
 
 
-- 👋 Hey, I’m @saramasarone, a ML Researcher/Engineer @IgnotaLabs and I hold a PhD from The Alan Turing Institute!
-
-- 👀 I’m interested in applying Machine Learning and Deep Learning to multi-omics and biological data to reveal insights in many diseases. Over my PhD, I also develop packages to automate ML/bioinformatics workflows.
- 
-- 🌱 I've developed a few tools to make my PhD life easier :)
-
-- 🏩 I’m looking to collaborate on medical/health projects involing Graph Neural Networks
-
-- 📫 You can email me at sara.masarone@ignotalabs.ai or smasarone@turing.ac.uk
+Hey, I’m @saramasarone, a ML Researcher/Engineer @IgnotaLabs and I hold a PhD from The Alan Turing Institute! I currently build models and pipelines for drug discovery.
+For any enquiry, please get in touch at sara.masarone@ignotalabs.ai or smasarone@turing.ac.uk
 
 
 <!---
