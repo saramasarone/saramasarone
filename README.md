@@ -1,6 +1,8 @@
 
 
-Hey, I’m @saramasarone, a Senior ML Researcher/Engineer @IgnotaLabs! I hold a PhD from The Alan Turing Institute on ML for multi-omics data integration! I currently build models and pipelines for toxicology and cheminformatics in drug discovery.
+Hey, I’m @saramasarone, a Senior ML Researcher/Engineer @IgnotaLabs! 
+
+I have a PhD from The Alan Turing Institute on ML for multi-omics data integration! I currently build models, agents and pipelines for toxicology and cheminformatics in drug discovery.
 
 For any enquiry, please get in touch at sara.masarone@ignotalabs.ai or saramasarone97@gmail.com
 
