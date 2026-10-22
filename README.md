@@ -1,6 +1,6 @@
 
 
-Hey, I’m Sara, a Senior ML Engineer
+Hey, I’m Sara, a Senior ML Engineer ✨
 
 I have a PhD from The Alan Turing Institute in ML for multi-omics data integration! I currently build foundation models, agents and pipelines for toxicology and cheminformatics in drug discovery. I'm also very interested in drug perturbation predictions and would love to collaborate in this space.
 
